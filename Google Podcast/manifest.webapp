@@ -1,0 +1,23 @@
+{
+	"name": "Google Podcast",
+	"description": "With Google Podcasts, you can find and listen to the world's podcasts for free.",
+	"type": "certified",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://i.reddit.com/",
+	"developer": {
+		"name": "Google LLC",
+		"url": "https://i.reddit.com/"
+	},
+	"locales": {
+		"en-US": {
+			"name": "Gmail"
+		}
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"icons": {
+		"128": "https://raw.githubusercontent.com/HamzehTamimi/Kaios-apps/main/Google%20Podcast/icon.png"
+	}
+}
