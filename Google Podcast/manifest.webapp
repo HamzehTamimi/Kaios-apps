@@ -1,7 +1,6 @@
 {
 	"name": "Google Podcast",
 	"description": "With Google Podcasts, you can find and listen to the world's podcasts for free.",
-	"type": "certified",
 	"ime_default_softkey_bar": true,
 	"version": "1.0",
 	"start_url": "https://i.reddit.com/",
