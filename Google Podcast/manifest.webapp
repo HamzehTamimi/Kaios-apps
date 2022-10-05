@@ -3,10 +3,10 @@
 	"description": "With Google Podcasts, you can find and listen to the world's podcasts for free.",
 	"ime_default_softkey_bar": true,
 	"version": "1.0",
-	"start_url": "https://i.reddit.com/",
+	"start_url": "https://podcasts.google.com/",
 	"developer": {
 		"name": "Google LLC",
-		"url": "https://i.reddit.com/"
+		"url": "https://podcasts.google.com/"
 	},
 	"locales": {
 		"en-US": {
