@@ -1,0 +1,22 @@
+{
+	"name": "Uber",
+	"description": "Request a ride",
+	"ime_default_softkey_bar": true,
+	"version": "1.0",
+	"start_url": "https://m.uber.com/looking/",
+	"developer": {
+		"name": "Uber Technologies, Inc.",
+		"url": "https://m.uber.com/looking/"
+	},
+	"locales": {
+		"en-US": {
+			"name": "Uber"
+		}
+	},
+	"default_locale": "en-US",
+	"display": "browser",
+	"cursor": true,
+	"icons": {
+		"128": "https://raw.githubusercontent.com/HamzehTamimi/Kaios-apps/main/Uber/icon.png"
+	}
+}
