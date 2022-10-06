@@ -1,6 +1,7 @@
 {
-	"name": "Uber",
-	"description": "Request a ride",
+	"name": "Uber for Nokia",
+	"description": "And with Uber, your destination is at your fingertips. Just open the app and enter where you want to go, and a nearby driver will help you get there reliably.",
+	"type": "certified",
 	"ime_default_softkey_bar": true,
 	"version": "1.0",
 	"start_url": "https://m.uber.com/looking/",
@@ -10,7 +11,9 @@
 	},
 	"locales": {
 		"en-US": {
-			"name": "Uber"
+			"name": "Uber",
+			"description": "And with Uber, your destination is at your fingertips. Just open the app and enter where you want to go, and a nearby driver will help you get there reliably.",
+			"subtitle": "Request a ride"
 		}
 	},
 	"default_locale": "en-US",
